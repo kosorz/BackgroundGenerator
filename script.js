@@ -11,4 +11,3 @@ function setGradinet(){
 color1.addEventListener("input", setGradinet);
 color2.addEventListener("input", setGradinet);
 
-
